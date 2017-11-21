@@ -5,7 +5,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: POEditor.com\n"
 "Project-Id-Version: wordpress-security-txt-translations\n"
-"Language: de\n"
+"Language: zh-TW\n"
 
 #. Name of the plugin
 #: admin/class-wordpress-security-txt-admin.php:117
@@ -17,87 +17,87 @@ msgstr "security.txt"
 #: admin/class-wordpress-security-txt-admin.php:126
 #: admin/class-wordpress-security-txt-admin.php:127
 msgid "security.txt Help"
-msgstr "security.txt Hilfe"
+msgstr "security.txt幫助"
 
 #: admin/class-wordpress-security-txt-admin.php:165
 msgid "General"
-msgstr "Allgemeines"
+msgstr "一般"
 
 #: admin/class-wordpress-security-txt-admin.php:173
 msgid "Directives"
-msgstr "Richtlinien"
+msgstr "指令"
 
 #: admin/class-wordpress-security-txt-admin.php:180
 msgid "Library"
-msgstr "Bibliothek"
+msgstr "圖書館"
 
 #: admin/class-wordpress-security-txt-admin.php:187
 #: admin/class-wordpress-security-txt-admin.php:405
 msgid "Debug"
-msgstr "Debuggen"
+msgstr "調試"
 
 #: admin/class-wordpress-security-txt-admin.php:202
 msgid "Enable"
-msgstr "Aktivieren"
+msgstr "啟用"
 
 #: admin/class-wordpress-security-txt-admin.php:215
 msgid "Menu"
-msgstr "Speisekarte"
+msgstr "菜單"
 
 #: admin/class-wordpress-security-txt-admin.php:228
 msgid "Redirect"
-msgstr "Umleiten"
+msgstr "重定向"
 
 #: admin/class-wordpress-security-txt-admin.php:285
 msgid "Contact"
-msgstr "Kontakt"
+msgstr "聯繫"
 
 #: admin/class-wordpress-security-txt-admin.php:300
 msgid "Encryption"
-msgstr "Verschlüsselung"
+msgstr "加密"
 
 #: admin/class-wordpress-security-txt-admin.php:315
 msgid "Disclosure"
-msgstr "Offenlegung"
+msgstr "洩露"
 
 #: admin/class-wordpress-security-txt-admin.php:348
 msgid "Acknowledgement"
-msgstr "Wissen"
+msgstr "承認"
 
 #: admin/class-wordpress-security-txt-admin.php:363
 msgid "Cache"
-msgstr "Zwischenspeicher"
+msgstr "高速緩存"
 
 #: admin/class-wordpress-security-txt-admin.php:377
 msgid "Credits"
-msgstr "Kredite"
+msgstr "積分"
 
 #: admin/class-wordpress-security-txt-admin.php:391
 msgid "Statistics"
-msgstr "Statistiken"
+msgstr "統計"
 
 #: admin/class-wordpress-security-txt-admin.php:626
 #: admin/class-wordpress-security-txt-admin.php:655
 msgid "Settings"
-msgstr "die Einstellungen"
+msgstr "設置"
 
 #: admin/class-wordpress-security-txt-admin.php:630
 #: admin/class-wordpress-security-txt-admin.php:663
 msgid "Help"
-msgstr "Hilfe"
+msgstr "幫幫我"
 
 #: admin/class-wordpress-security-txt-sanitizer.php:198
 msgid "Specify the data type to sanitize."
-msgstr "Geben Sie den zu bereinigenden Datentyp an."
+msgstr "指定要清理的數​​據類型。"
 
 #: admin/class-wordpress-security-txt-sanitizer.php:204
 msgid "Forgot data type."
-msgstr "Forgot Datentyp."
+msgstr "忘記數據類型。"
 
 #. Description of the plugin
 #: 
 msgid "A plugin for serving 'security.txt' in WordPress 4.9+, based on configuration settings."
-msgstr "Ein Plugin für die Bereitstellung von 'security.txt' in WordPress 4.9+, basierend auf Konfigurationseinstellungen."
+msgstr "根據配置設置，在WordPress 4.9+中提供“security.txt”的插件。"
 
 #. URI of the plugin
 #: 

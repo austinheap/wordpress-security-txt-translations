@@ -5,7 +5,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: POEditor.com\n"
 "Project-Id-Version: wordpress-security-txt-translations\n"
-"Language: de\n"
+"Language: ro\n"
 
 #. Name of the plugin
 #: admin/class-wordpress-security-txt-admin.php:117
@@ -17,87 +17,87 @@ msgstr "security.txt"
 #: admin/class-wordpress-security-txt-admin.php:126
 #: admin/class-wordpress-security-txt-admin.php:127
 msgid "security.txt Help"
-msgstr "security.txt Hilfe"
+msgstr "security.txt Ajutor"
 
 #: admin/class-wordpress-security-txt-admin.php:165
 msgid "General"
-msgstr "Allgemeines"
+msgstr "General"
 
 #: admin/class-wordpress-security-txt-admin.php:173
 msgid "Directives"
-msgstr "Richtlinien"
+msgstr "directivă"
 
 #: admin/class-wordpress-security-txt-admin.php:180
 msgid "Library"
-msgstr "Bibliothek"
+msgstr "Bibliotecă"
 
 #: admin/class-wordpress-security-txt-admin.php:187
 #: admin/class-wordpress-security-txt-admin.php:405
 msgid "Debug"
-msgstr "Debuggen"
+msgstr "debug"
 
 #: admin/class-wordpress-security-txt-admin.php:202
 msgid "Enable"
-msgstr "Aktivieren"
+msgstr "Permite"
 
 #: admin/class-wordpress-security-txt-admin.php:215
 msgid "Menu"
-msgstr "Speisekarte"
+msgstr "Meniul"
 
 #: admin/class-wordpress-security-txt-admin.php:228
 msgid "Redirect"
-msgstr "Umleiten"
+msgstr "Redirecţiona"
 
 #: admin/class-wordpress-security-txt-admin.php:285
 msgid "Contact"
-msgstr "Kontakt"
+msgstr "a lua legatura"
 
 #: admin/class-wordpress-security-txt-admin.php:300
 msgid "Encryption"
-msgstr "Verschlüsselung"
+msgstr "Criptarea"
 
 #: admin/class-wordpress-security-txt-admin.php:315
 msgid "Disclosure"
-msgstr "Offenlegung"
+msgstr "Dezvăluire"
 
 #: admin/class-wordpress-security-txt-admin.php:348
 msgid "Acknowledgement"
-msgstr "Wissen"
+msgstr "Confirmare"
 
 #: admin/class-wordpress-security-txt-admin.php:363
 msgid "Cache"
-msgstr "Zwischenspeicher"
+msgstr "ascunzătoare"
 
 #: admin/class-wordpress-security-txt-admin.php:377
 msgid "Credits"
-msgstr "Kredite"
+msgstr "credite"
 
 #: admin/class-wordpress-security-txt-admin.php:391
 msgid "Statistics"
-msgstr "Statistiken"
+msgstr "Statistici"
 
 #: admin/class-wordpress-security-txt-admin.php:626
 #: admin/class-wordpress-security-txt-admin.php:655
 msgid "Settings"
-msgstr "die Einstellungen"
+msgstr "Setări"
 
 #: admin/class-wordpress-security-txt-admin.php:630
 #: admin/class-wordpress-security-txt-admin.php:663
 msgid "Help"
-msgstr "Hilfe"
+msgstr "Ajutor"
 
 #: admin/class-wordpress-security-txt-sanitizer.php:198
 msgid "Specify the data type to sanitize."
-msgstr "Geben Sie den zu bereinigenden Datentyp an."
+msgstr "Specificați tipul de date pentru dezinfectare."
 
 #: admin/class-wordpress-security-txt-sanitizer.php:204
 msgid "Forgot data type."
-msgstr "Forgot Datentyp."
+msgstr "A uitat tipul de date."
 
 #. Description of the plugin
 #: 
 msgid "A plugin for serving 'security.txt' in WordPress 4.9+, based on configuration settings."
-msgstr "Ein Plugin für die Bereitstellung von 'security.txt' in WordPress 4.9+, basierend auf Konfigurationseinstellungen."
+msgstr "Un plugin pentru difuzarea \"security.txt\" în WordPress 4.9+, bazat pe setările de configurare."
 
 #. URI of the plugin
 #: 
