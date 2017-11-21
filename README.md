@@ -1,0 +1,1 @@
+# wordpress-security-txt-translations

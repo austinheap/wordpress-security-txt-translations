@@ -1,0 +1,121 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2017-11-21 00:28+0000\n"
+"Language: de-DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"PO-Revision-Date: 2017-11-21 00:29+0000\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"Project-Id-Version: security.txt\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: admin <me@austinheap.com>\n"
+"Language-Team: German\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+#: admin/class-wordpress-security-txt-sanitizer.php:198
+msgid "Specify the data type to sanitize."
+msgstr "Geben Sie die zu bereinigenden Datentypen an."
+
+#: admin/class-wordpress-security-txt-sanitizer.php:204
+msgid "Forgot data type."
+msgstr "Entfernte Typdaten."
+
+#. Description of the plugin
+msgid ""
+"A plugin for serving 'security.txt' in WordPress 4.9+, based on "
+"configuration settings."
+msgstr ""
+"Das Plugin für die Bereitstellung von 'security.txt' in WordPress 4.9+, "
+"basierend auf den Konfigurationseinstellungen."
+
+#. Name of the plugin
+#: admin/class-wordpress-security-txt-admin.php:117
+#: admin/class-wordpress-security-txt-admin.php:118
+#: admin/class-wordpress-security-txt-admin.php:648
+msgid "security.txt"
+msgstr "security.txt"
+
+#: admin/class-wordpress-security-txt-admin.php:126
+#: admin/class-wordpress-security-txt-admin.php:127
+msgid "security.txt Help"
+msgstr "security.txt Hilfe"
+
+#: admin/class-wordpress-security-txt-admin.php:165
+msgid "General"
+msgstr "Allgemein"
+
+#: admin/class-wordpress-security-txt-admin.php:173
+msgid "Directives"
+msgstr "Richtlinien"
+
+#: admin/class-wordpress-security-txt-admin.php:180
+msgid "Library"
+msgstr "Bibliothek"
+
+#: admin/class-wordpress-security-txt-admin.php:187
+#: admin/class-wordpress-security-txt-admin.php:405
+msgid "Debug"
+msgstr "Debuggen"
+
+#: admin/class-wordpress-security-txt-admin.php:202
+msgid "Enable"
+msgstr "Aktivieren"
+
+#: admin/class-wordpress-security-txt-admin.php:215
+msgid "Menu"
+msgstr "Menü"
+
+#: admin/class-wordpress-security-txt-admin.php:228
+msgid "Redirect"
+msgstr "Umleiten"
+
+#: admin/class-wordpress-security-txt-admin.php:285
+msgid "Contact"
+msgstr "Kontakt"
+
+#: admin/class-wordpress-security-txt-admin.php:300
+msgid "Encryption"
+msgstr "Verschlüsselung"
+
+#: admin/class-wordpress-security-txt-admin.php:315
+msgid "Disclosure"
+msgstr "Offenlegung"
+
+#: admin/class-wordpress-security-txt-admin.php:348
+msgid "Acknowledgement"
+msgstr "Danksagungen"
+
+#: admin/class-wordpress-security-txt-admin.php:363
+msgid "Cache"
+msgstr "Zwischenspeicher"
+
+#: admin/class-wordpress-security-txt-admin.php:377
+msgid "Credits"
+msgstr "Kredite"
+
+#: admin/class-wordpress-security-txt-admin.php:391
+msgid "Statistics"
+msgstr "Statistiken"
+
+#: admin/class-wordpress-security-txt-admin.php:626
+#: admin/class-wordpress-security-txt-admin.php:655
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: admin/class-wordpress-security-txt-admin.php:630
+#: admin/class-wordpress-security-txt-admin.php:663
+msgid "Help"
+msgstr "Hilfe"
+
+#. URI of the plugin
+msgid "https://github.com/austinheap/wordpress-security-txt"
+msgstr "https://github.com/austinheap/wordpress-security-txt"
+
+#. Author of the plugin
+msgid "Austin Heap"
+msgstr "Austin Heap"
+
+#. Author URI of the plugin
+msgid "https://github.com/austinheap"
+msgstr "https://github.com/austinheap"
